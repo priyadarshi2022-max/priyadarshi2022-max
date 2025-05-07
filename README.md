@@ -27,15 +27,25 @@
 
 ### :man_technologist: About Me :
 
-Hi there! 👋 I'm a passionate Machine Learning enthusiast eager to learn and grow. 🌱 I'm currently building small projects, participating in competitions, and seeking internship opportunities to gain hands-on experience. 
+Hi there! 👋 I'm a passionate Data Scientist and Machine Learning enthusiast with a focus on practical, hands-on projects. Currently, I'm working on real-world machine learning applications, including credit risk modeling, email marketing optimization, and GenAI-powered solutions. I'm constantly participating in Kaggle competitions to hone my skills and improve my performance.
 
-🌱 Currently diving into the exciting world of Machine Learning!
+🔍 Current Focus:
+
+Building and deploying machine learning models for business applications
+
+Exploring advanced topics in Data Science, Computer Vision, and Machine Learning
+
+Developing GenAI-powered automation tools for personalized communication
 
 ⚡ In my free time, I enjoy:
-   *  Reading books
-   *  Learning Data Structures and Algorithms
-   *  Reading tech articles
-   *  Studying math
+
+Diving deep into Data Structures and Algorithms
+
+Reading books, especially those recommended by Chris Williamson 📚
+
+Studying advanced mathematics and technical articles
+
+Staying up-to-date with the latest trends in tech and AI
 
 📫 You can reach me through:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyadarshi-kumar-092388264) 
 
